@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(92, 190, 223);
+  }
+  p{
+    font-size: 18px;
+    text-align: justify;
+  }
+  tr{
+    text-align: center;
+  }
+  th{
+    color: black;
+  }
+  td{font-size: 15px;}
+  th{font-size: 15px;}
